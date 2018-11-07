@@ -2,6 +2,7 @@
 Trabalho de Iniciação Científica fomentado pela UNICAMP, CNPq e orientado pelo Professor Doutor Francisco J. Arnold
 
 O trabalho está dividido em 3 partes:
+
 1 - Relatório Parcial: Nesta pasta em .rar, apresenta todo o desenvolvimento da IC, desde o começo até a entrega do relatório parcial (em fevereiro de 2018)
 
 2 - Relatório Final: Nesta pasta em .rar, apresenta todo o desenvolvimento da IC, desde a entrega do relatório parcial até a entrega do relatório final (em agosto de 2018)
